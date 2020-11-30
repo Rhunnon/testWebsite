@@ -5,11 +5,13 @@ function Home() {
         <div>
         
             <h1>Home</h1>
-            <Counter />
+//            <Counter />
         
         </div>
     )
 }
+
+/*
 
 function Counter() {
     const [counter, setCounter] = useState(1);
@@ -25,5 +27,7 @@ function Counter() {
         </div>
     )
 }
+
+*/
 
 export default Home
